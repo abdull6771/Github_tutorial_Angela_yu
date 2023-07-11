@@ -1,0 +1,6 @@
+1-I learn Branching,Mearging, forking and pull request.
+2-Branching when you are working on a particular branch for example for example master branch and you want to test a particular piece of code the you can create an external branch and run your code without affecting the other code.<git branch "name of branch">
+3- And you can used <git branch> to see the list of your branch you create for a particular project.
+4 - After you create you can merge them that is called merging using <git merge "name of the branch">
+5-Forking is like getting a copy of remote repository to your own remote repository
+6-put it under your own remote repository

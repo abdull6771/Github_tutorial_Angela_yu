@@ -1,0 +1,5 @@
+1- In this chapter i have learn working with gitignore and git clonning 
+2- gitignore:- when you are trying to exclude some secrets files from pushing them to remote repository you can used <.gitignore>  to exclude them.
+3- git clone :- This is how to create and download a remote repository to your local repository
+4- clone a copy of remote repository and save it to your local repository
+5- if you want to extend some of the functionslity of a program

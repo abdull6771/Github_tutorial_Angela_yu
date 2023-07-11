@@ -1,0 +1,7 @@
+1- I created a file in my working directory inside my folder 
+2- The working directory is the folder or the directory where i initialize my git repository <git init>
+3- In the beggining i created a file inside my working directory inside my folder and then i add using< git add > to push it to staging area.
+4-Staging area is a good place to try and 
+ figure out what are the things that you want git to ignore and what are the things you want to be tracked
+5-Move the file inside my local repository and that version is given a name through the commit message <git commit -m "message here">
+6- I used <git checkout "filename > to move to previous file that you change

@@ -1,0 +1,4 @@
+1-In this chapter i have learn how to create a remote repository (intersting part)
+2-From the initial working direectory i add my work to staging area before commiting and then add it local repository
+3-I then create a Github account for free with allow me to push my local repository to remote repository.
+4- I create the remote repository and push my local repository to the remote repository using <git push>
